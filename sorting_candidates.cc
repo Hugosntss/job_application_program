@@ -1,6 +1,15 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+This program can sort candidates for a company, picking informations
+like citizenship, if they have bachelors degree and how many years
+of experience they have in the field.
+
+*/
+
+
 int main() {
     string citizenship;
     bool bachelor_degree;
